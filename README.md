@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fieldhog
+- 👀 I’m interested computers, operating systems, programming, electronics, and how they all work togeather.
+- 🌱 I’m currently learning electronics and how to build a computer from scratch using small and medium scale IC's.
+- 📫 How to reach me g_fieldhouse @ hotmail.com
